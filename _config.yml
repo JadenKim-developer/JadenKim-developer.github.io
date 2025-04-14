@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaden"
 description              : "An amazing website."
-url                      : "https://JadenKim.github.io"
+url                      : "https://JadenKim-developer.github.io"
 baseurl                  : # "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
